@@ -74,7 +74,6 @@ detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor('C:\Python-Code\FacialDetection\shape_predictor_68_face_landmarks.dat')
 
 # grab the indexes of the facial landmarks for the left and  right eye
-
 (lStart, lEnd) = face_utils.FACIAL_LANDMARKS_IDXS["left_eye"]
 (rStart, rEnd) = face_utils.FACIAL_LANDMARKS_IDXS["right_eye"]
 
@@ -182,7 +181,7 @@ while True :
             cv2.putText(frame, "EAR blink ratio: {:.2f}".format(ear), (300, 30),cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
 
 
-            # Lets handle with the head movment .
+            # Lets handle with the head movement .
             # we have 3 postions :
             # left , right , stand 
             # It is calculated according to the middleW, middleW1, middleW2 
@@ -203,7 +202,7 @@ while True :
 
 
              # After define the position of the head we activate a keyboard command (left/right arrow)
-             # same for the blinks : "Fire" command using space
+            
 
             if direction=='stand':
                 keyboard.release('left')
