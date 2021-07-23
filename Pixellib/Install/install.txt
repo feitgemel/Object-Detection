@@ -1,0 +1,8 @@
+conda create -n py38 python=3.8
+conda env list
+conda activate py38
+
+pip install tensorflow==2.4.1
+pip install tensorflow-gpu==2.4.1
+pip install pixellib 
+pip install opencv-python 

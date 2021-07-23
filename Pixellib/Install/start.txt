@@ -1,0 +1,10 @@
+==============================================================================
+You should pre install Anaconda enviroment as a prerequisite for this tutorial
+
+----------------------------------------------------------
+First , we will build an Python 3.8 new enviroment
+then we will pip install the relevant Python libraries. 
+----------------------------------------------------------
+
+Please open an Anaconda command prompt :
+=======================================
