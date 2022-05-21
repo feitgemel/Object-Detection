@@ -1,0 +1,12 @@
+conda create -n Beatstar python=3.7
+conda activate Beatstar
+
+conda install pywin32
+pip install keyboard
+pip install pyautogui
+
+pip install pywin32==228
+
+# Download the game from here :
+# link for the Beatstar – Touch Your Music : https://www.bluestacks.com/apps/music/beatstar-on-pc.html
+
