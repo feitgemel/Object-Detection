@@ -53,7 +53,7 @@ If you are interested in learning modern Computer Vision course with deep dive w
 
 Perfect course for every computer vision enthusiastic
 
-Before we continue , I actually recommend this [book](https://amzn.to/44GnlLW) "Make Your Own Neural Network - An In-depth Visual Introduction For Beginners " 
+Before we continue , I actually recommend this [book](https://amzn.to/44GnlLW) :"Make Your Own Neural Network - An In-depth Visual Introduction For Beginners " 
 
 </font>
 
