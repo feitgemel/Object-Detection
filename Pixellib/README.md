@@ -63,6 +63,7 @@ Before we continue , I actually recommend this [book](https://amzn.to/44GnlLW) :
 If you have any suggestions about papers, feel free to mail me :)
 
 - [▶️ Youtube.com/@eranfeit](youtube.com/@eranfeit?sub_confirmation=1)
+- [🌐 My Website](https://eranfeit.net)
 - [🐙 Facebookl](https://www.facebook.com/groups/3080601358933585)
 - [🖥️ Email](mailto:feitgemel@gmail.com)
 - [🐦 Twitter](https://twitter.com/eran_feit )
