@@ -26,7 +26,8 @@ Leveraging the Keras application library to load powerful pre-trained models lik
 <br/><br/> 
 It is based on Tensorflow and keras.
 
-You can find the link for the [tutorial](https://youtu.be/40_NC2Ahs_8) here. 
+You can find the link for the [tutorial](https://eranfeit.net/tensorflow-image-classification-tutorial-resnet50-vs-mobilenet/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/40_NC2Ahs_8) here. 
  
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4Ze9_12JhWu3cs-lOGYwYeD)
 
